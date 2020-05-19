@@ -42,13 +42,12 @@ services:
       - "8080:8080"
 
   ruby-test:     
-    image: watir      
+    image: watir 
     build:       
      context:  ./      
      dockerfile: ./ruby/Dockerfile     
-    depends_on:       
-      - bulletin     
-    volumes:       
+    depends_on: 
+      - bulletin 
+    volumes: 
        - .:/tmp 
-     command: ["./wait-for-grid.sh", "ruby", "/usr/src/test/bulletin_board.rb"]
-
+    command: ["./wait-for-grid.sh", "ruby", "/tmp/test.rb", "/tmp/test_1.rb"]
