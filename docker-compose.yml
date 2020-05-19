@@ -50,5 +50,5 @@ services:
       - bulletin     
     volumes:       
        - .:/tmp 
-    command: ["./wait-for-grid.sh", "ruby", "/usr/src/test/bulletin_board.rb"]
+     command: ["./wait-for-grid.sh", "ruby", "/usr/src/test/bulletin_board.rb"]
 
