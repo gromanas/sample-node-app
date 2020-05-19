@@ -41,7 +41,7 @@ services:
     ports:
       - "8080:8080"
 
-  ruby-test:     
+  ruby-test: 
     image: watir 
     build:       
      context:  ./      
@@ -50,4 +50,4 @@ services:
       - bulletin 
     volumes: 
        - .:/tmp 
-    command: ["./wait-for-grid.sh", "ruby", "/tmp/test.rb", "/tmp/test_1.rb"]
+    command: ["./wait-for-grid.sh", "ruby", "/usr/src/test/bulletin_board.rb"]
