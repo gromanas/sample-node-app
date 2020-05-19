@@ -1,0 +1,32 @@
+version: '2'
+services:
+  firefox:
+    image: selenium/node-firefox-debug
+    ports:
+      - "6901:5900"
+    volumes:
+      - /dev/shm:/dev/shm
+    depends_on:
+      - hub
+    environment:
+      TZ: America/Montreal
+      SCREEN_WIDTH: 1024
+      SCREEN_HEIGHT: 768
+      HUB_HOST: hub
+
+  chrome:
+    image: selenium/node-chrome-debug
+    ports:
+      - "6900:5900"
+    volumes:
+      - /dev/shm:/dev/shm
+    depends_on:
+      - hub
+    environment:
+      TZ: Australia/Canberra
+      HUB_HOST: hub
+
+  hub:
+    image: selenium/hub
+    ports:
+      - "4444:4444" 
