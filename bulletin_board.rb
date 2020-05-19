@@ -1,5 +1,5 @@
 require 'watir'
-browser = Watir::Browser.new :chrome, url: "http://192.168.10.191:4444/wd/hub"
+browser = Watir::Browser.new :chrome, url: "http://hub:4444/wd/hub"
 
 browser.goto 'http://bulletin:8080'
 title = browser.text_field css: 'input[class="form-control"][placeholder="Title"]'

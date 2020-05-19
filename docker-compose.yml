@@ -49,6 +49,6 @@ services:
     depends_on:       
       - bulletin     
     volumes:       
-       - .:/tmp     
-    command: ["./wait-for-grid.sh", "ruby", "usr/src/test/bulletin_board.rb"]
+       - .:/tmp 
+   command: ["./wait-for-grid.sh", "ruby", "/usr/src/test/bulletin_board.rb"]
 
