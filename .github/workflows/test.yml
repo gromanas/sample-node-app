@@ -1,13 +1,14 @@
-name: Test Github CI
+name: Shell Commands
 
 on: [push]
 
 jobs:
-  build:
+  run-shell-command:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v1
-      - name: Build the docker-compose stack
-        run: docker-compose -f docker-compose.yml up --abort-on-container-exit --build
+      - name: echo a string
+        run: echo "Hello World!"
+      - name: multiline script
+        run: |
+          node -v
+          npm -v
