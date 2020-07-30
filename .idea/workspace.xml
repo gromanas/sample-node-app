@@ -112,7 +112,7 @@
       <updated>1589870912806</updated>
       <workItem from="1589870916236" duration="4454000" />
       <workItem from="1596113459429" duration="339000" />
-      <workItem from="1596113814735" duration="4318000" />
+      <workItem from="1596113814735" duration="4399000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1589871233990</created>
@@ -233,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596127977436</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add github actions yml file">
+      <created>1596130073055</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1596130073055</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,14 +254,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="add github actions yml file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="547" y="152" key="CommitChangelistDialog2" timestamp="1596127977053">
+    <state x="547" y="152" key="CommitChangelistDialog2" timestamp="1596130072785">
       <screen x="0" y="23" width="1920" height="1108" />
     </state>
-    <state x="547" y="152" key="CommitChangelistDialog2/0.23.1920.1108@0.23.1920.1108" timestamp="1596127977053" />
-    <state x="560" y="317" key="Vcs.Push.Dialog.v2" timestamp="1596127978826">
+    <state x="547" y="152" key="CommitChangelistDialog2/0.23.1920.1108@0.23.1920.1108" timestamp="1596130072785" />
+    <state x="560" y="317" key="Vcs.Push.Dialog.v2" timestamp="1596130099903">
       <screen x="0" y="23" width="1920" height="1108" />
     </state>
-    <state x="560" y="317" key="Vcs.Push.Dialog.v2/0.23.1920.1108@0.23.1920.1108" timestamp="1596127978826" />
+    <state x="560" y="317" key="Vcs.Push.Dialog.v2/0.23.1920.1108@0.23.1920.1108" timestamp="1596130099903" />
   </component>
   <component name="masterDetails">
     <states>
