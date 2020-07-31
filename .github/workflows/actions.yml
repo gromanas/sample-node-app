@@ -1,7 +1,7 @@
 name: Actions Workflow
 
 on: [push]
-  nvm current
+
 jobs:
   run-github-actions:
     runs-on: ubuntu-latest
