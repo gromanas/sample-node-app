@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb1c941e-548a-4da2-a16f-976a06e6667e" name="Default Changelist" comment="">
+    <list default="true" id="eb1c941e-548a-4da2-a16f-976a06e6667e" name="Default Changelist" comment="add github actions yml file">
       <change beforePath="$PROJECT_DIR$/.github/workflows/actions.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/actions.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -114,7 +114,11 @@
       <workItem from="1589870916236" duration="4454000" />
       <workItem from="1596113459429" duration="339000" />
       <workItem from="1596113814735" duration="5040000" />
-      <workItem from="1596190487893" duration="2844000" />
+      <workItem from="1596190487893" duration="4586000" />
+      <workItem from="1596209288233" duration="223000" />
+      <workItem from="1596458946446" duration="1047000" />
+      <workItem from="1596543697539" duration="600000" />
+      <workItem from="1600693432455" duration="740000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1589871233990</created>
@@ -270,7 +274,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596193154364</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add github actions yml file">
+      <created>1596198379879</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1596198379879</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add github actions yml file">
+      <created>1596198422650</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1596198422650</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,14 +302,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="add github actions yml file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="547" y="152" key="CommitChangelistDialog2" timestamp="1596193154016">
+    <state x="547" y="152" key="CommitChangelistDialog2" timestamp="1596209509800">
       <screen x="0" y="23" width="1920" height="1108" />
     </state>
-    <state x="547" y="152" key="CommitChangelistDialog2/0.23.1920.1108@0.23.1920.1108" timestamp="1596193154016" />
-    <state x="560" y="317" key="Vcs.Push.Dialog.v2" timestamp="1596193155613">
+    <state x="547" y="152" key="CommitChangelistDialog2/0.23.1920.1108@0.23.1920.1108" timestamp="1596209509800" />
+    <state x="560" y="317" key="Vcs.Push.Dialog.v2" timestamp="1596198423817">
       <screen x="0" y="23" width="1920" height="1108" />
     </state>
-    <state x="560" y="317" key="Vcs.Push.Dialog.v2/0.23.1920.1108@0.23.1920.1108" timestamp="1596193155613" />
+    <state x="560" y="317" key="Vcs.Push.Dialog.v2/0.23.1920.1108@0.23.1920.1108" timestamp="1596198423817" />
+    <state x="625" y="272" width="670" height="676" key="search.everywhere.popup" timestamp="1596553859966">
+      <screen x="0" y="23" width="1920" height="1108" />
+    </state>
+    <state x="625" y="272" width="670" height="676" key="search.everywhere.popup/0.23.1920.1108@0.23.1920.1108" timestamp="1596553859966" />
   </component>
   <component name="masterDetails">
     <states>
