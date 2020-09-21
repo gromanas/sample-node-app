@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb1c941e-548a-4da2-a16f-976a06e6667e" name="Default Changelist" comment="add github actions yml file">
+    <list default="true" id="eb1c941e-548a-4da2-a16f-976a06e6667e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/actions.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/actions.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +117,7 @@
       <workItem from="1596209288233" duration="223000" />
       <workItem from="1596458946446" duration="1047000" />
       <workItem from="1596543697539" duration="600000" />
-      <workItem from="1600693432455" duration="740000" />
+      <workItem from="1600693432455" duration="1082000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1589871233990</created>
@@ -288,7 +287,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596198422650</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add checkout to get our code">
+      <created>1600697024112</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1600697024112</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add list of files after checkout">
+      <created>1600697098652</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1600697098652</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,16 +312,20 @@
     <MESSAGE value="create travis.yml file" />
     <MESSAGE value="copy wait-for-grid.sh bulletin_board.rb in docker image" />
     <MESSAGE value="add github actions yml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add github actions yml file" />
+    <MESSAGE value="add checkout to get our code" />
+    <MESSAGE value="add list of files after checkout" />
+    <option name="LAST_COMMIT_MESSAGE" value="add list of files after checkout" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="547" y="152" key="CommitChangelistDialog2" timestamp="1596209509800">
-      <screen x="0" y="23" width="1920" height="1108" />
+    <state x="547" y="138" key="CommitChangelistDialog2" timestamp="1600697098382">
+      <screen x="0" y="23" width="1920" height="988" />
     </state>
+    <state x="547" y="138" key="CommitChangelistDialog2/-1440.109.1440.877/0.23.1920.988@0.23.1920.988" timestamp="1600697098382" />
     <state x="547" y="152" key="CommitChangelistDialog2/0.23.1920.1108@0.23.1920.1108" timestamp="1596209509800" />
-    <state x="560" y="317" key="Vcs.Push.Dialog.v2" timestamp="1596198423817">
-      <screen x="0" y="23" width="1920" height="1108" />
+    <state x="560" y="285" key="Vcs.Push.Dialog.v2" timestamp="1600697099948">
+      <screen x="0" y="23" width="1920" height="988" />
     </state>
+    <state x="560" y="285" key="Vcs.Push.Dialog.v2/-1440.109.1440.877/0.23.1920.988@0.23.1920.988" timestamp="1600697099948" />
     <state x="560" y="317" key="Vcs.Push.Dialog.v2/0.23.1920.1108@0.23.1920.1108" timestamp="1596198423817" />
     <state x="625" y="272" width="670" height="676" key="search.everywhere.popup" timestamp="1596553859966">
       <screen x="0" y="23" width="1920" height="1108" />
