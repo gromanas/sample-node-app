@@ -13,8 +13,8 @@ jobs:
     steps:
       - name: Payload
         run: |
-        echo ${{ github.event.event_type }}
-        echo ${{ github.event.client_payload.env }}
+          echo ${{ github.event.event_type }}
+          echo ${{ github.event.client_payload.env }}
       - name: List Files
         run: |
           pwd
