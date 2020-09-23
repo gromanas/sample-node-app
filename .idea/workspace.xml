@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb1c941e-548a-4da2-a16f-976a06e6667e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/env.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/actions.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/actions.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/env.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/env.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -357,7 +356,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600862254641</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="add list of files after checkout">
+      <created>1600863693282</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1600863693282</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add list of files after checkout">
+      <created>1600863731808</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1600863731808</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add list of files after checkout">
+      <created>1600863808615</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1600863808615</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,19 +393,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="add list of files after checkout" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="547" y="138" key="CommitChangelistDialog2" timestamp="1600862254411">
+    <state x="547" y="138" key="CommitChangelistDialog2" timestamp="1600863808362">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
-    <state x="547" y="138" key="CommitChangelistDialog2/-1440.109.1440.877/0.23.1920.988@0.23.1920.988" timestamp="1600862254411" />
+    <state x="547" y="138" key="CommitChangelistDialog2/-1440.109.1440.877/0.23.1920.988@0.23.1920.988" timestamp="1600863808362" />
     <state x="547" y="152" key="CommitChangelistDialog2/0.23.1920.1108@0.23.1920.1108" timestamp="1596209509800" />
     <state x="100" y="123" width="1720" height="788" key="DiffContextDialog" timestamp="1600861890514">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
     <state x="100" y="123" width="1720" height="788" key="DiffContextDialog/-1440.109.1440.877/0.23.1920.988@0.23.1920.988" timestamp="1600861890514" />
-    <state x="560" y="285" key="Vcs.Push.Dialog.v2" timestamp="1600862255783">
+    <state x="560" y="285" key="Vcs.Push.Dialog.v2" timestamp="1600863810586">
       <screen x="0" y="23" width="1920" height="988" />
     </state>
-    <state x="560" y="285" key="Vcs.Push.Dialog.v2/-1440.109.1440.877/0.23.1920.988@0.23.1920.988" timestamp="1600862255783" />
+    <state x="560" y="285" key="Vcs.Push.Dialog.v2/-1440.109.1440.877/0.23.1920.988@0.23.1920.988" timestamp="1600863810586" />
     <state x="560" y="317" key="Vcs.Push.Dialog.v2/0.23.1920.1108@0.23.1920.1108" timestamp="1596198423817" />
     <state x="625" y="272" width="670" height="676" key="search.everywhere.popup" timestamp="1596553859966">
       <screen x="0" y="23" width="1920" height="1108" />
