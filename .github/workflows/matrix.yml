@@ -12,4 +12,4 @@ jobs:
         with:
           node-version: 6
       - name: Log node version again
-          run: node -v
+        run: node -v
